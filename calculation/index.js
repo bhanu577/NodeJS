@@ -1,4 +1,4 @@
-const {multiplyInt} = require("./mutiply");
-const {calculateSum}= require("./sum");
+const { multiplyInt } = require("./mutiply");
+const { calculateSum } = require("./sum");
 
-module.exports = {multiplyInt,calculateSum};
+module.exports = { multiplyInt, calculateSum };

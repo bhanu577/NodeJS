@@ -1,5 +1,5 @@
-function multiplyInt(a,b){
-    return a*b;
+function multiplyInt(a, b) {
+    return a * b;
 }
 
-module.exports = {multiplyInt};
+module.exports = { multiplyInt };
