@@ -1,13 +1,15 @@
-const obj = require("./sum");
+//import { multiplyInt } from "./mutiply.js";
+const {calculateSum} = require("./sum");
 
 var name = "Welcome to Java Script";
 
 var a = 10;
-var b = 20;
-
-var res = obj.calculateSum(a,b);
+var b = 30;
+x = 200;
+var res = calculateSum(a,b);
+//var res1 = multiplyInt(a,b)
 
 console.log(res)
-console.log(obj.x)
+console.log(x)
 console.log(name);
-console.log(a*b);
+//console.log(res1);
