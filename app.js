@@ -13,4 +13,4 @@ console.log(res)
 console.log(x)
 console.log(name);
 console.log(res1);
-console.log(data)
+console.log(data.name)
